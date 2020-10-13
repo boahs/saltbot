@@ -56,7 +56,7 @@ The more info you provide, the better we can diagnose the issue and remedy it.
 
 # Twitch Channel
 
-[**We now have a twitch channel where you can see the bot running live,](https://twitch.tv/saltbot) be sure to swing by and follow!
+[**We now have a twitch channel where you can see the bot running live**,](https://twitch.tv/saltbot) be sure to swing by and follow!
 
 # Contributors & Members
 
